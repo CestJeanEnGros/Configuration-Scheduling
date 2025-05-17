@@ -17,7 +17,12 @@ $ python main.py --agent=(solver-name).py --infile=./instances/(instance-name).t
 
 ## Visualization   
 
+Visualization instance A solution :
 ![Visualization instance A solution](img/instance_A.png)
-![Visualization instance B solution](img/instance_B.png)
+
+Visualization instance C solution : 
 ![Visualization instance C solution](img/instance_C.png)
+
+Visualization instance F solution :
+![Visualization instance F solution](img/instance_F.png)
 
